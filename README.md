@@ -4,6 +4,12 @@
   <img src="docs/images/offlinecooler-icon.png" alt="Offline Cooler icon" width="256">
 </p>
 
+<p align="center">
+  <a href="https://mods.vintagestory.at/show/mod/60475#tab-description">Vintage Story ModDB</a>
+  ·
+  <a href="https://github.com/joryleech/Vintage-Story-Offline-Cooler/releases">GitHub Releases</a>
+</p>
+
 Offline Cooler is a multiplayer-friendly Vintage Story mod that adds a
 fat-sealed clay storage vessel. Food inside stops spoiling whenever the player
 who placed the vessel is offline.

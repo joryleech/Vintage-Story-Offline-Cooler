@@ -1,5 +1,7 @@
 # Vintage Story ModDB Listing
 
+Published page: https://mods.vintagestory.at/show/mod/60475#tab-description
+
 ## Name
 
 Offline Cooler
