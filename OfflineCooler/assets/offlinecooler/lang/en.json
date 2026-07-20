@@ -1,0 +1,8 @@
+{
+  "block-normal-offlinecooler-*-fired": "Fat-sealed storage vessel",
+  "blockdesc-offlinecooler-*-fired": "Food does not spoil while the player who placed this vessel is offline.",
+  "owner-unassigned": "Owner: Unassigned",
+  "item-owner": "Owner: {0}",
+  "placed-owner": "Owner: {0} (UID: {1})",
+  "preservation-rule": "Preserves food whenever this owner is offline."
+}

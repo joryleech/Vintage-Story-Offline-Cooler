@@ -1,0 +1,54 @@
+name: Bug report
+description: Report a reproducible Offline Cooler problem
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve Offline Cooler.
+  - type: input
+    id: game-version
+    attributes:
+      label: Vintage Story version
+      placeholder: 1.22.3
+    validations:
+      required: true
+  - type: input
+    id: mod-version
+    attributes:
+      label: Offline Cooler version
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Environment
+      options:
+        - Single-player
+        - Hosted multiplayer
+        - Dedicated server
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the actual and expected behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+      placeholder: |
+        1. Place a vessel...
+        2. Put food inside...
+        3. Disconnect...
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant logs and mod list
+      description: Drag log files here or paste a short relevant excerpt.
+      render: text

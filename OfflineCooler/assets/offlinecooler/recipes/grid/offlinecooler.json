@@ -1,0 +1,25 @@
+[
+  {
+    ingredientPattern: "VF",
+    ingredients: {
+      "V": {
+        type: "block",
+        code: "game:storagevessel-*-fired",
+        name: "color"
+      },
+      "F": {
+        type: "item",
+        code: "game:fat-rendered",
+        quantity: 1
+      }
+    },
+    width: 2,
+    height: 1,
+    shapeless: true,
+    output: {
+      type: "block",
+      code: "offlinecooler:offlinecooler-{color}-fired",
+      attributes: { type: "normal" }
+    }
+  }
+]

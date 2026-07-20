@@ -1,0 +1,43 @@
+# Build output
+**/bin/
+**/obj/
+**/publish/
+Releases/
+artifacts/
+
+# IDE and editor state
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.rsuser
+*.DotSettings.user
+*.code-workspace
+
+# Test and diagnostic output
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.binlog
+*.log
+
+# Local operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local Codex/agent state
+.agents/
+.codex/
+
+# Local Vintage Story data or copied dependencies
+VintagestoryData/
+VintageStory/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
